@@ -1,0 +1,4 @@
+"AppointmentID","UserID","AppointmentDate","AppointmentStatus","Location","Time","VaccineType"
+"appt00234","user456","2024-11-18","Scheduled","Downtown Health Center","T09:30:00Z","Influenza"
+"APPT25555","lucy911","2024-06-19","Scheduled","Downtown Health Center","T10:30:00Z","Covid-19"
+"APPT54321","user123","2024-10-20","Scheduled","Downtown Health Center","T10:45:00Z","Influenza"
